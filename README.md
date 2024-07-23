@@ -20,3 +20,14 @@ To run your project, navigate to the directory and run one of the following npm 
 - npm run ios
 - npm run web
 ```
+
+Once you have your app created, let's start it up with:
+
+```sh
+# Start the Metro Bundler to build our app
+% npm start
+```
+
+Once you see a QR code, you should be able to scan that to run the app on your device.
+
+Alternatively, if you have the iOS simulator or Android simulator installed on your development machine, you can press `i` or `a` to launch your app there.
